@@ -6,4 +6,4 @@ Things you may want to cover:
 
 * To register visit:   https://dpoo5050-toyapp-3.herokuapp.com/
 
-* To post visit:   https://dpoo5050-toyapp-3.herokuapp.com/
+* To post visit:   https://dpoo5050-toyapp-3.herokuapp.com/microposts
