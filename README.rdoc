@@ -1,9 +1,9 @@
-== Toy App (odint Project)
+== Toy App (Odin Project)
 
 Things you may want to cover:
 
 * A small app where you can register and start posting microposts
 
-* To register visit https://dpoo5050-toyapp-3.herokuapp.com/
+* To register visit: 		 https://dpoo5050-toyapp-3.herokuapp.com/
 
-* To post visit https://dpoo5050-toyapp-3.herokuapp.com/microposts
+* To post visit:			 https: //dpoo5050-toyapp-3.herokuapp.com/microposts
