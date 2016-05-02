@@ -1,28 +1,9 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== Toy App (odint Project)
 
 Things you may want to cover:
 
-* Ruby version
+* A small app where you can register and start posting microposts
 
-* System dependencies
+* To register visit https://dpoo5050-toyapp-3.herokuapp.com/
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* To post visit https://dpoo5050-toyapp-3.herokuapp.com/microposts
